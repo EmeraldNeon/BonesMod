@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNWJ0V+Zbf5rxtVNZU/mGR9dfyq91dR3BR91RVXhdjvuN3RPZWOothtSJE1jV7i5XLGLGJgleYhTD/duffBF0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mhasa\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Bonesmod\\Bonesmod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhasa\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
