@@ -1,4 +1,0 @@
-displayName = Bone's Mod
-author = EmeraldNeon
-version = 0.2.3.1
-homepage = 
